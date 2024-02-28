@@ -11,7 +11,7 @@ On this continous and unpredictable journey of exploration that we call life, he
 
 - Project 1
 - Project 2
-- (Buenos Aires Short-Let Market Analysis with SQL, R & Tableau)[https://medium.com/@aarandaniel/airbnbs-in-buenos-aires-f40274f219fb]
+- [Buenos Aires Short-Let Market Analysis with SQL, R & Tableau](https://medium.com/@aarandaniel/airbnbs-in-buenos-aires-f40274f219fb)
 - Project 4
 - Project 5
 
