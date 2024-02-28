@@ -1,3 +1,4 @@
+![image]('../images/Green and Grey Simple Nature Traveller Linkedln Banner.png')
 # Who is Aaran Daniel?
 
 Like many people fresh out of university I was unsure which area of business best suited me. When the pandemic struck I was thrust into a varied role that blessed me with the opportunity to explore; I learned about my personal skill set, the things that energised me and those that didn't.
