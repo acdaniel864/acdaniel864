@@ -12,7 +12,7 @@ On this continous and unpredictable journey of exploration that we call life, he
 - [Disecting Discourse between Stoics and Buddhists - An NLP Project with Python](https://github.com/acdaniel864/nlp-reddit-classification)
 - [Credit Growth & Delinquency Forecasting and Consultancy - A Time Series Project with Python](https://github.com/acdaniel864/time-series-credit-forecasting)
 - [Buenos Aires Short-Let Market Analysis - A Data Analytics Project with SQL, R & Tableau](https://medium.com/@aarandaniel/airbnbs-in-buenos-aires-f40274f219fb)
-- [An Application and Model for Bargain Wines - work-in-progress](https://github.com/acdaniel864/capstone)
+- [An Application and Model for Finding Value Wines - work-in-progress](https://github.com/acdaniel864/capstone)
 
 I am energised by fixing things, taking on big projects and solving problems with data. I enjoy working for a cause that I feel has the power to benefit people in a sustainable way: to live healthier, happier and more empowered lives. In my free time I like to write songs, watch/play sports, argue about politics, sing, dance badly, laugh and travel. 
 
