@@ -1,5 +1,5 @@
 
-![Green and Grey Simple Nature Traveller Linkedln Banner (2000 x 500 px)](https://github.com/acdaniel864/acdaniel864/assets/62990137/6715e5e4-65a9-4502-a348-951cf3b570d7)
+![Green and Grey Simple Nature Traveller Linkedln Banner (2000 x 500 px)](https://github.com/acdaniel864/acdaniel864/assets/62990137/d7f1eb06-6103-436b-b9c6-cca14761e7b3)
 
 # Who is Aaran Daniel?
 
@@ -28,4 +28,3 @@ I am energised by fixing things, taking on big projects and solving problems wit
 - Introspective
 - Efficient
 - Creative
-
