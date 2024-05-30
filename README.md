@@ -5,11 +5,11 @@
 
 Like many people fresh out of university I was unsure which area of business best suited me. When the pandemic struck I was thrust into a varied role that blessed me with the opportunity to explore; I learned about my personal skill set, the things that energised me and those that didn't.
 
-Utilising new technologies and data to solve business problems is something I kept coming back to 📈. 
+Utilising new technologies and data to solve business problems is something I kept coming back to and wanted to explore more 📈. 
 
-So I moved to Argentina for 8 months, the home country of my fiance would provide the basecamp to my career in data science. I taught myself Python, SQL, R and Tableau but I wanted to dive deeper. So I went back to school. As a Data Science fellow with General Assembly I delved into Machine Learning and AI, discovering a world I am hugely passionate about. 
+So, I moved to Argentina for 8 months. The home country of my fiance would provide the basecamp to launch my career in data science. I taught myself Python, SQL, R and Tableau but I wanted to dive deeper. So I went back to school. As a Data Science fellow at General Assembly I delved into Machine Learning and AI, discovering a world I am hugely passionate about. 
 
-On this unpredictable journey of exploration that we call life, here are some of the projects I have completed along the way:
+On this unpredictable journey of exploration, here are some of the projects I have completed along the way:
 
 - [Disecting Discourse between Stoics and Buddhists - An NLP Project with Python](https://github.com/acdaniel864/nlp-reddit-classification)
 - [Application and Model for Valuing Consumer Wine](https://github.com/acdaniel864/capstone)
